@@ -1,10 +1,11 @@
 import React from 'react';
+import rishabhProfile from '../Images/rishabhProfile.jpg';
 function About(){
 return(
     <>
      <section id="about-section">
      <section id="about-me">
-     <img id="About-image" src="../Images/rishabhProfile.jpg" alt="About"/>
+     <img id="About-image" src={rishabhProfile} alt="About"/>
 
     <p id="my-info">
         My name is Rishabh Rajendar Thakur. 
