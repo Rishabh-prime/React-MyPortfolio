@@ -4,7 +4,7 @@ return(
     <>
      <section id="about-section">
      <section id="about-me">
-     <img id="About-image" src="/src/Images/InShot_20230224_130849086.jpg" alt="About"/>
+     <img id="About-image" src="../Images/rishabhProfile.jpg" alt="About"/>
 
     <p id="my-info">
         My name is Rishabh Rajendar Thakur. 

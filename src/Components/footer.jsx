@@ -1,6 +1,7 @@
 function Footer(){
     return (
         <>
+        <section id="footer-section">
         <section id="footer">
     <div id="social-media">
       
@@ -13,7 +14,7 @@ function Footer(){
     </div>
     <p id="copyright">Copyright @Rishabh; 2024</p>
    </section>
-
+   </section>
 
         </>
     );
