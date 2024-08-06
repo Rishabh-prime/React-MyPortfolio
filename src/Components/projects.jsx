@@ -15,7 +15,7 @@ const projectsData = [
     imgSrc: codeEditorImage,
     projectName: "Code Editor",
     projectDescription: "This is a code editor. It is built using HTML, CSS, JavaScript and React.js.",
-    githubLink: "https://github.com/your-username/code-editor"
+    githubLink: "https://github.com/Rishabh-prime/Code-Editor"
   },
   {
     imgSrc: dogApiImage,
