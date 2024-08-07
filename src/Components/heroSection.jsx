@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../Images/Rishabh Thakur . Resume.pdf'
 
 function HeroSection() {
     return (
@@ -11,7 +12,7 @@ function HeroSection() {
                         <a href="mailto:rishabh1616thakur@gmail.com" className="hero-button email-button">
                             <ion-icon name="mail-outline"></ion-icon> Email Me
                         </a>
-                        <a href="./Images/Rishabh Thakur . Resume.pdf" download className="hero-button resume-button">
+                        <a href={Resume} download className="hero-button resume-button">
                             <ion-icon name="download-outline"></ion-icon> Resume
                         </a>
                     </div>
